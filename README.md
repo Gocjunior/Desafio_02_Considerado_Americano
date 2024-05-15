@@ -63,7 +63,8 @@ Assumindo que a amostra representa adequadamente a população americana, qual a
 Dos entrevistados 17% são brancos e tem renda maior que 125k e 13% da população branca apresenta renda menor que 40k. O gráfico 6 demonstrar esses resultados.
 
 Gráfico 6.
- ![image](https://github.com/Gocjunior/Desafio_02_Considerado_Americano/assets/118209238/88c53ae8-d3e9-4c70-b9b9-9371587bf7f3)
+
+![image](https://github.com/Gocjunior/Desafio_02_Considerado_Americano/assets/118209238/88c53ae8-d3e9-4c70-b9b9-9371587bf7f3)
 
 
 Ainda assumindo que temos uma amostra representativa, podemos dizer que nível educacional e poder aquisitivo estão correlacionados?
