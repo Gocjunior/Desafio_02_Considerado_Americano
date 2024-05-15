@@ -1,4 +1,4 @@
-# Desafio_02_Considerado_Americano
+# Desafio_02 O QUE É CONSIDERADO "SER AMERICANO" PARA O ELEITOR DOS EUA?
 Desafio: proposto André Yukio da Universidade dos Dados. Com o seguinte tema: O QUE É CONSIDERADO "SER AMERICANO" PARA O ELEITOR DOS EUA?
 
 Para o meu primeiro projeto publicado, optei por utilizar exclusivamente o Microsoft Excel como ferramenta principal para demonstrar meu domínio nesta ferramenta. Em resposta aos desafios propostos, conduzi análises detalhadas empregando tabelas dinâmicas para elaboração dos gráficos, destacando assim minha capacidade na manipulação e visualização de dados utilizando o Excel.
