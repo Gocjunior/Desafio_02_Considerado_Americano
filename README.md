@@ -42,7 +42,8 @@ Em relação ao Gênero e raça dos entrevistados 50,4% são homens e 49,6% são
 
 Gráfico 2.
 
- ![image](https://github.com/Gocjunior/Desafio_02_Considerado_Americano/assets/118209238/8e3171b5-376b-4aea-aa2d-0f384103a8a2)
+![image](https://github.com/Gocjunior/Desafio_02_Considerado_Americano/assets/118209238/3e353b08-bab7-4ef5-b541-ae0fd808cda4)
+
 
 
 Gráfico 3.
