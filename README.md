@@ -109,7 +109,9 @@ A população não branca considera mais importante votar nas eleições para se
 
 Gráfico 10.
 
- ![image](https://github.com/Gocjunior/Desafio_02_Considerado_Americano/assets/118209238/faa1ee55-9e8f-4dfc-9490-b0a45a32cecc)
+![image](https://github.com/Gocjunior/Desafio_02_Considerado_Americano/assets/118209238/d6ba364d-1fc2-4b3b-8566-b366ea8470ce)
+
+
 
 
 Existe uma diferença na preferência de não-brancos de maior poder aquisitivo vs menor poder aquisitivo?
@@ -117,7 +119,8 @@ Não há diferença na preferência da população com maior poder aquisitivo e 
 
 Gráfico 11.
 
- ![image](https://github.com/Gocjunior/Desafio_02_Considerado_Americano/assets/118209238/04b01fb4-3369-4562-b338-6224d9d72763)
+![image](https://github.com/Gocjunior/Desafio_02_Considerado_Americano/assets/118209238/462a4263-0acd-4b0d-ab3c-329873cf9683)
+
 
 
 Considerando que respeitar a opinião dos outros (Q2_8) é um indício de tolerância, ao compararmos as gerações de 18-30 anos, 31-50 anos e +51, qual é a mais tolerante e a menos tolerante?
@@ -142,7 +145,8 @@ O partido Democrata possui o maior número de apoiadores mulheres. O gráfico 14
 
 Gráfico 14.
 
- ![image](https://github.com/Gocjunior/Desafio_02_Considerado_Americano/assets/118209238/7dfbbb78-b0e9-457b-9682-403ddbb1f252)
+ ![image](https://github.com/Gocjunior/Desafio_02_Considerado_Americano/assets/118209238/c67f260f-52b9-481f-ad1d-5c8d54ac9f47)
+
 
 
 Qual o perfil do público sem partido (independent ou no preference), em termos de idade e gênero? E dos republicanos? E dos democratas? 
@@ -150,24 +154,27 @@ Os indivíduos sem partido, 23,5% aproximadamente tem menos de 30 anos e 76,5% a
 
 Gráfico 15.
 
-![image](https://github.com/Gocjunior/Desafio_02_Considerado_Americano/assets/118209238/fff0285d-8c64-4509-969f-13fc7884462f)
+![image](https://github.com/Gocjunior/Desafio_02_Considerado_Americano/assets/118209238/79b00956-137b-4792-98d2-f2c2861d988b)
+
  
 
 Gráfico 16.
 
- ![image](https://github.com/Gocjunior/Desafio_02_Considerado_Americano/assets/118209238/0296946b-3ae1-4ebd-a56e-539b46bac2cc)
+![image](https://github.com/Gocjunior/Desafio_02_Considerado_Americano/assets/118209238/1d18b73c-1056-469b-ab64-1780da18ade9)
+
 
 
 Em relação aos republicanos e aos democratas 11% e 18% respectivamente são menores que 30 anos e 64% e 57% respectivamente maiores que 51 anos (gráfico 17). As mulheres correspondem a 51% do partido republicano e 54% dos democratas (gráfico 18). 
 
 Gráfico 17.
 
-![image](https://github.com/Gocjunior/Desafio_02_Considerado_Americano/assets/118209238/df200e3a-0e2a-411c-877a-f91500f6faa1)
- 
+![image](https://github.com/Gocjunior/Desafio_02_Considerado_Americano/assets/118209238/d0fc646c-5947-4598-b2e4-4ba4b60d597a)
+
 
 Gráfico 18.
 
- ![image](https://github.com/Gocjunior/Desafio_02_Considerado_Americano/assets/118209238/9bd42dd0-3b70-4c0d-9f4c-6bfcdf10f760)
+![image](https://github.com/Gocjunior/Desafio_02_Considerado_Americano/assets/118209238/1b9f6398-4dc3-4373-9bcb-332cd5b7f9f7)
+
 
 
 Existe uma correlação entre idade e propensão a votos (voter_category)?
@@ -188,7 +195,8 @@ Pois se conseguir a preferência de votos dessa população pode aumentar suas c
 
 Gráfico 20.
 
-![image](https://github.com/Gocjunior/Desafio_02_Considerado_Americano/assets/118209238/f7539ae3-7a59-4271-ae6d-39b22766137e)
+![image](https://github.com/Gocjunior/Desafio_02_Considerado_Americano/assets/118209238/01741fad-0f39-472b-88a4-8940187e5b88)
+
  
 
 
