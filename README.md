@@ -36,33 +36,37 @@ Participaram da pesquisa 5836 indivíduos, com idade média 51,7 +/- 17 anos. Se
 
 Gráfico 1.
 
- ![image](https://github.com/Gocjunior/Desafio_02_Considerado_Americano/assets/118209238/a7cf8b88-cbd4-4b7b-9940-f2f5374bdf9f)
+![image](https://github.com/Gocjunior/Desafio_02_Considerado_Americano/assets/118209238/562bc1e8-b121-41ff-adf1-cdc7786180c8)
+
 
 Em relação ao Gênero e raça dos entrevistados 50,4% são homens e 49,6% são mulheres (gráfico 2). Sendo que 64% se consideram Brancos, 16% Negros, 14% Hispânicos e 7% outros/mistos (gráfico 3). O gráfico 2 e 3 apresenta a distribuição de genro e raça dos entrevistados. 
 
 Gráfico 2.
 
-![image](https://github.com/Gocjunior/Desafio_02_Considerado_Americano/assets/118209238/3e353b08-bab7-4ef5-b541-ae0fd808cda4)
+![image](https://github.com/Gocjunior/Desafio_02_Considerado_Americano/assets/118209238/4f8643df-e68f-4e87-8719-2fe6c929f415)
+
 
 
 
 Gráfico 3.
 
- ![image](https://github.com/Gocjunior/Desafio_02_Considerado_Americano/assets/118209238/a898680c-ddd7-451d-9bf2-a6094318d62b)
+ ![image](https://github.com/Gocjunior/Desafio_02_Considerado_Americano/assets/118209238/cfab6681-c25d-4acb-a11c-c3bf77801ba3)
+
 
 
 A pesquisa demonstrou que 40% dos entrevistados tem ensino superior completo, 29% incompleto e 31% não chegaram a frequentar faculdade. O gráfico 4 demonstra a distribuição da escolaridade dos entrevistados
 
 Gráfico 4.
 
- ![image](https://github.com/Gocjunior/Desafio_02_Considerado_Americano/assets/118209238/d5d28acc-83ce-4a9c-a609-d72172aa73c2)
+![image](https://github.com/Gocjunior/Desafio_02_Considerado_Americano/assets/118209238/3fb6f651-d2c9-4084-bc6b-92dc31097392)
 
 
 Os entrevistados 52% ganham mais de 75K e 24% ganham menos que 40k. O gráfico 5 demonstra a distribuição de renda.
 
 Gráfico 5.
 
- ![image](https://github.com/Gocjunior/Desafio_02_Considerado_Americano/assets/118209238/c4b11ca2-2cc0-4d52-a3de-a8ca1d94d33a)
+![image](https://github.com/Gocjunior/Desafio_02_Considerado_Americano/assets/118209238/cb7a91c0-15c2-490f-b07a-11d5d003ea65)
+
 
 
 Assumindo que a amostra representa adequadamente a população americana, qual a raça que possui maior poder aquisitivo? E menor?
